@@ -56,6 +56,7 @@ It also uses Keplr and connects to Juno's Uni testnet. We use a faucet API serve
 so they can pay gas. And then use a smart contract faucet to release 10.000 AQIR to each user once, to allow them
 to invest in the protocol, allowing a quick and easy onboarding experience for the prototype.
 
+
 Once you have connected your wallet and filled it with tokens, you can browse the different hexagons and invest in the
 one(s) that you would like to clean up. We display all your current investments in the sidebar, and also allow
 you to withdraw any investments that have reached maturity, calculating your winnings.
